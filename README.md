@@ -1,2 +1,1 @@
-
-https://evatolopilo.github.io/quiz-upd-/
+https://evatolopilo.github.io/quiz_upd/
