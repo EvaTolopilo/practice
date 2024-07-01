@@ -1,1 +1,1 @@
-https://evatolopilo.github.io/quiz_upd/
+https://evatolopilo.github.io/quiz_update/
