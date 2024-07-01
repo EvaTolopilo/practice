@@ -1,4 +1,3 @@
 https://evatolopilo.github.io/quiz_update/
-
-Quiz
+<h1>Quiz</h1>
 
