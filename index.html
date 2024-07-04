@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz</title>
+    <link rel="stylesheet" href="style.css" id="theme">
+    <link rel="stylesheet"/>
+</head>
+<body>
+<script type="module" src="questions.js"></script>
+<script type="module" src="scripts.js"></script>
+
+<div class="theme_btn"><button id="theme_btn">Theme</button></div>
+<div class="start_btn"><button id="start_btn">Start</button></div>
+<div class="quiz_box" id="quiz_box">
+    <div class="head">
+        <div class="title">Quiz</div>
+        <div class="timer">
+            <div class="time_left_txt" id="time_left">You have</div>
+            <div class="timer_sec" id="timer_sec">15</div>
+        </div>
+    </div>
+    <section>
+        <div class="que_text">
+        </div>
+        <div class="option_list" id="option_list">
+        </div>
+    </section>
+    <div class="modal" id="modal">
+        <div class="model-content">
+            <h3>Here you can choose more several options!</h3>
+            <img class="image" src="image/smile-sticker.png">
+        </div>
+    </div>
+    <footer>
+        <div class="total_que" id="total_que">
+        </div>
+        <div class="buttons">
+            <button id="answer_btn" class="answer_btn">Answer</button>
+            <button id="next_btn" class="next_btn">Next</button>
+        </div>
+    </footer>
+</div>
+
+<div class="result_box" id="result_box">
+    <div class="score_text">
+    </div>
+    <div class="buttons">
+        <button class="restart" id="restart_btn">Restart</button>
+    </div>
+</div>
+
+</body>
+</html>
