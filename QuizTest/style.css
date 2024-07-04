@@ -478,7 +478,7 @@ footer .buttons button.show{
 .model-content {
     background-color: var(--color-white);
     color: var(--color-grey);
-    border: 3px var(--color-grey);
+    border: var(--color-grey);
     border-radius: var(--border-radius-2);
     text-align: center;
     width: var(--width70);
