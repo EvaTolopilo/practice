@@ -1,4 +1,4 @@
-https://evatolopilo.github.io/Quiz/
+https://evatolopilo.github.io/Quiz_/
 # Quiz
 This is an application in HTML, CSS and JavaScript.
 For each question time is limited(15 seconds).
